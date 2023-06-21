@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "00257db7-e415-47f8-91af-6e3c74afc2d4": {
+      "ProjectGuid": "00257db7-e415-47f8-91af-6e3c74afc2d4",
+      "DisplayName": "reservationApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

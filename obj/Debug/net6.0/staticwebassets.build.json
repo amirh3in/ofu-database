@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wpviMPqFfC6aPSk9+GrIEwa1/Oq196D89gaMOGhxhLg=",
+  "Source": "reservationApi",
+  "BasePath": "_content/reservationApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
